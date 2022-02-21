@@ -1,0 +1,11 @@
+.popup-button{
+  width: 13rem;
+  height: 3rem;
+  border-radius: .4rem;
+  background-color: rgb(4, 43, 10);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  font-size:1.2rem;
+  margin:2%;
+  float: right;
+}
